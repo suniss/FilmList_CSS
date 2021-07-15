@@ -1,0 +1,21 @@
+@media only screen and (min-width: 1024px){
+
+h1{color:rgb(155, 136, 137)}
+
+footer{
+    background-color: rgb(8, 8, 8);
+    font-size: 1.2rem;
+    color: cornsilk;
+}
+
+
+ /* GRID */
+ .large-3 {width: 25%;}
+
+ nav ul {margin-left : 2vw}
+ nav li {width: auto;}
+ nav a {padding: .7rem 1rem}
+
+
+
+}/* end of media query*/
